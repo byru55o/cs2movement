@@ -1,6 +1,9 @@
 # cs2movement
 bypass new cs2 patch (snap tap update), credit to: [ruby rain](https://steamcommunity.com/id/r_by/)
 
+## important! NOTE:
+A new bypass method has been found by [Leiti](https://www.youtube.com/watch?v=spEEtXVFwLM) and is now used by default in the _autoexec_. It involves piping echo to exec to load multiple commands at one keypress, which is not detected that way. 
+
 # instructions
 Just clone the repo and move the movement folder to the `<Counter Strike path>/game/csgo/cfg/`. Add `exec movement/setup` to your autoexec (alternatively use the autoexec provided in the repo, which has other interesting features). Enjoy.
 
